@@ -1,4 +1,4 @@
-# SampleSizeCalc (development version)
+# SampleSizeCalc 3.1.2
 
 - `calculate()` now enforces study design and parameter invariants:
   - `singleMean` precision planning searches for the smallest integer $N \ge 2$
