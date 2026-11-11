@@ -13,7 +13,7 @@
 ## Citation
 
 Source:
-[`inst/CITATION`](https://github.com/portos-wang/Sample_Size_Calc/blob/master/inst/CITATION)
+[`inst/CITATION`](https://github.com/portos-wang/Sample_Size_Calc/blob/v3.1.2/inst/CITATION)
 
 Wang P, Cai B (2026). *SampleSizeCalc: Sample Size Calculator for
 Clinical Research*. R package version 3.1.2,
