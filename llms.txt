@@ -569,7 +569,7 @@ along with the package:
   author = {Portos (Yishan) Wang and Bingxin Cai},
   organization = {Gansu Provincial Maternity and Child-care Hospital (Gansu Provincial Central Hospital)},
   year = {2026},
-  version = {3.1.1},
+  version = {3.1.2},
   url = {https://github.com/portos-wang/Sample_Size_Calc}
 }
 ```

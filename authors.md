@@ -16,13 +16,13 @@ Source:
 [`inst/CITATION`](https://github.com/portos-wang/Sample_Size_Calc/blob/master/inst/CITATION)
 
 Wang P, Cai B (2026). *SampleSizeCalc: Sample Size Calculator for
-Clinical Research*. R package version 3.1.1,
+Clinical Research*. R package version 3.1.2,
 <https://github.com/portos-wang/Sample_Size_Calc>.
 
     @Manual{,
       title = {SampleSizeCalc: Sample Size Calculator for Clinical Research},
       author = {Portos (Yishan) Wang and Bingxin Cai},
       year = {2026},
-      note = {R package version 3.1.1},
+      note = {R package version 3.1.2},
       url = {https://github.com/portos-wang/Sample_Size_Calc},
     }

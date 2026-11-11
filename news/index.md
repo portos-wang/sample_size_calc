@@ -1,6 +1,6 @@
 # Changelog
 
-## SampleSizeCalc (development version)
+## SampleSizeCalc 3.1.2
 
 - [`calculate()`](https://rpackages.portos.wang/sample_size_calc/reference/calculate.md)
   now enforces study design and parameter invariants:
